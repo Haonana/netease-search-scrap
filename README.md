@@ -7,7 +7,7 @@
 直接运行 python main.py
 
 文本格式如下：
-![歌曲名称列表](/src/txt.png)  
+![歌曲名称列表](/src/txt.png，style="zoom:50%")  
 
 也可以搜索下载某首歌
 运行结果：
