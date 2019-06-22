@@ -17,5 +17,5 @@
 
 下载失败的歌曲会记录在当前文件夹下的failsongs中。
 <div align="center">
-<img src="http://pp.myapp.com/ma_pic2/0/shot_42391053_1_1488499316/550" height="330" width="190" >
+<img src="https://github.com/Haonana/netease-search-scrap/blob/master/src/txt.png" height="330" width="190" >
 </div>
