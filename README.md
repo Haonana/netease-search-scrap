@@ -4,7 +4,11 @@
 实现通过文本中的歌名搜索指定歌曲的功能
 下载至本地
 
-直接运行 python main.py
+直接运行 python main.py -h 获取帮助
+
+       python main.py -k 歌曲名
+    
+       python main.py -t 包含歌曲名的文本路径
 
 文本格式如下：
 ![歌曲名称列表](/src/txt.png)  
