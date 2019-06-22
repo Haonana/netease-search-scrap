@@ -16,6 +16,5 @@
 ![歌曲名称列表](/src/down.png)  
 
 下载失败的歌曲会记录在当前文件夹下的failsongs中。
-<div align="center">
+
 <img src="https://github.com/Haonana/netease-search-scrap/blob/master/src/txt.png" style="zoom:50%" >
-</div>
