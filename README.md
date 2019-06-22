@@ -1,10 +1,11 @@
 # 爬取本地歌单上的歌曲，下载指定歌曲
 
 
-实现通过文本中的歌名搜索指定歌曲的功能
-下载至本地
+实现通过文本中的歌名搜索指定歌曲的功能，下载至本地
 
-直接运行 python main.py -h 获取帮助
+Constructions:
+
+       python main.py -h 获取帮助
 
        python main.py -k 歌曲名
     
