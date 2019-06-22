@@ -11,9 +11,10 @@
 
 也可以搜索下载某首歌
 运行结果：
+![运行过程](/src/running.png) 
 
 下载结束：
-![歌曲名称列表](/src/down.png)  
+![下载结果](/src/down.png)  
 
 下载失败的歌曲会记录在当前文件夹下的failsongs中。
 
